@@ -1,10 +1,7 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **ErfanEftekhari/ErfanEftekhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,10 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-🔴🟡🟢
-
-<br>
-
 </div>
 
 
@@ -26,6 +19,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
 </div>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blueviolet" alt="Profile views" />
   &nbsp;
@@ -33,11 +27,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
   </a>
 </p>
-
+-->
 
 <div>
 
-  ## 🧭 &nbsp;About Me
+  ## &nbsp;About Me
 
   - 📚 Information System student at UFPI.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
@@ -65,10 +59,10 @@ Here are some ideas to get you started:
   `¯\_(ツ)_/¯`
 </div>
 
-
+ <!--
 <div>
 
-  ## 📚 &nbsp;Currently studying
+  ## &nbsp;Currently studying
 
   - Figma
   - Microservices architecture
@@ -103,29 +97,24 @@ Here are some ideas to get you started:
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
 
 </div>
-
+-->
 
 <div>
 
-  ## 📊 &nbsp;My activities
+  ## &nbsp;My activities
+  
+  <!--
   <a href="https://github.com/Pepyn0">
     <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/Pepyn0">
     <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-</div>
+  -->
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
-<div>
-
-  ## 📫 &nbsp;My Contacts
-
-  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/pablodsilva/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pepyn0_/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp;
-  [![AniList Badge](https://img.shields.io/badge/-Pepyn0-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/Pepyn0/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
 </div>
 
@@ -136,12 +125,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
-<!-- ## 📚 &nbsp;My Projects -->
+<!-- ## &nbsp;My Projects -->
 
 
-------
-
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 <p align="center">
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -159,6 +146,3 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
