@@ -1,5 +1,7 @@
+<div>
+<h1 align="center">Hi , I'm Erfan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</div>
 <!--
-### Hi there 👋
 **ErfanEftekhari/ErfanEftekhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -11,15 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-</div>
 
-
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
 </div>
 
-<!--
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blueviolet" alt="Profile views" />
   &nbsp;
@@ -130,9 +130,9 @@ Here are some ideas to get you started:
   </a>
   -->
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErfanEftekhari&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErfanEftekhari&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
 </div>
 
@@ -161,6 +161,6 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://profile-counter.glitch.me/ErfanEftekhari/count.svg" />
 </p>
 
