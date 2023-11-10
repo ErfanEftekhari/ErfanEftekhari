@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
   - 💬 Ask me about **any technology**.
 
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
-
   <br>
   
 
